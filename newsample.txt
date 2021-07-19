@@ -1,2 +1,2 @@
 sample text
-from local repo
+modified in remote

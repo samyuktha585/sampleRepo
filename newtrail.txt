@@ -1,3 +1,7 @@
 hello
 modified in remote repo
+<<<<<<< HEAD
 from local repo
+=======
+modified in remote again
+>>>>>>> 8776fcb949a71c7bf9063423db2124e5ebe6f753
